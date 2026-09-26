@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Filipe Reis — ADS no IFBA" />
+  <img src="banner.png" width="100%" alt="Filipe Reis — ADS no IFBA" />
   <br /><br />
-  <a href="https://github.com/eufilip"><img src="assets/github-badge.svg" height="27" alt="GitHub eufilip" /></a>
-  <a href="https://www.linkedin.com/in/2602b1373/"><img src="assets/linkedin-badge.svg" height="27" alt="LinkedIn de Filipe Reis" /></a>
-  <img src="assets/ifba-badge.svg" height="27" alt="ADS no IFBA" />
+  <a href="https://github.com/eufilip"><img src="github-badge.png" height="27" alt="GitHub eufilip" /></a>
+  <a href="https://www.linkedin.com/in/2602b1373/"><img src="linkedin-badge.png" height="27" alt="LinkedIn de Filipe Reis" /></a>
+  <img src="ifba-badge.png" height="27" alt="ADS no IFBA" />
 </div>
 
 ## 👨‍💻 /whoami
@@ -24,16 +24,16 @@ const filipe = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/stack.svg" width="700" alt="Em prática: C. Em estudo: HTML e CSS. Ferramentas: GitHub e GCC." />
+  <img src="stack.png" width="700" alt="Em prática: C. Em estudo: HTML e CSS. Ferramentas: GitHub e GCC." />
 </div>
 
 ## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/eufilip?tab=repositories"><img src="assets/card-repos.svg" width="310" alt="Ver repositórios" /></a>
-  <a href="https://github.com/eufilip?tab=overview"><img src="assets/card-activity.svg" width="310" alt="Ver contribuições" /></a>
+  <a href="https://github.com/eufilip?tab=repositories"><img src="card-repos.png" width="310" alt="Ver repositórios" /></a>
+  <a href="https://github.com/eufilip?tab=overview"><img src="card-activity.png" width="310" alt="Ver contribuições" /></a>
   <br />
-  <a href="https://github.com/eufilip?tab=repositories"><img src="assets/card-languages.svg" width="310" alt="Ver linguagens dos repositórios" /></a>
+  <a href="https://github.com/eufilip?tab=repositories"><img src="card-languages.png" width="310" alt="Ver linguagens dos repositórios" /></a>
 </div>
 
 <br />
@@ -43,10 +43,10 @@ Os cartões levam aos dados atuais do meu perfil e dos meus repositórios.
 ## 📫 Vamos conversar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/2602b1373/"><img src="assets/linkedin-badge.svg" height="32" alt="Acessar meu LinkedIn" /></a>
-  <a href="https://github.com/eufilip"><img src="assets/github-badge.svg" height="32" alt="Acessar meu GitHub" /></a>
+  <a href="https://www.linkedin.com/in/2602b1373/"><img src="linkedin-badge.png" height="32" alt="Acessar meu LinkedIn" /></a>
+  <a href="https://github.com/eufilip"><img src="github-badge.png" height="32" alt="Acessar meu GitHub" /></a>
 </div>
 
 <br />
 
-<div align="center"><img src="assets/footer.svg" width="100%" alt="Faixa decorativa" /></div>
+<div align="center"><img src="footer.png" width="100%" alt="Faixa decorativa" /></div>
