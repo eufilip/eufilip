@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Filipe Reis — ADS no IFBA" />
+  <img src="banner.gif" width="100%" alt="Filipe Reis — ADS no IFBA; faixa inferior animada" />
   <br /><br />
-  <a href="https://github.com/eufilip"><img src="github-badge.png" height="27" alt="GitHub eufilip" /></a>
-  <a href="https://www.linkedin.com/in/2602b1373/"><img src="linkedin-badge.png" height="27" alt="LinkedIn de Filipe Reis" /></a>
-  <img src="ifba-badge.png" height="27" />
+  <a href="https://github.com/eufilip">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/2602b1373/">LinkedIn</a> &nbsp;·&nbsp;
+  ADS no IFBA
 </div>
 
 ## 👨‍💻 /whoami
@@ -24,29 +24,23 @@ const filipe = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="stack.png" width="700" alt="Em prática: C. Em estudo: HTML e CSS. Ferramentas: GitHub e GCC." />
+  <img src="stack.png" width="560" alt="Logos de C, HTML5, CSS3 e GitHub. C em prática; HTML e CSS em estudo." />
 </div>
 
 ## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/eufilip?tab=repositories"><img src="card-repos.png" width="310" alt="Ver repositórios" /></a>
-  <a href="https://github.com/eufilip?tab=overview"><img src="card-activity.png" width="310" alt="Ver contribuições" /></a>
-  <br />
-  <a href="https://github.com/eufilip?tab=repositories"><img src="card-languages.png" width="310" alt="Ver linguagens dos repositórios" /></a>
+  <a href="https://github.com/eufilip?tab=overview">Contribuições</a> &nbsp;·&nbsp;
+  <a href="https://github.com/eufilip?tab=repositories">Repositórios</a>
 </div>
-
-<br />
-
-Os cartões levam aos dados atuais do meu perfil e dos meus repositórios.
 
 ## 📫 Vamos conversar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/filipe-reis-2602b1373/"><img src="linkedin-badge.png" height="32" alt="Acessar meu LinkedIn" /></a>
-  <a href="https://github.com/eufilip"><img src="github-badge.png" height="32" alt="Acessar meu GitHub" /></a>
+  <a href="https://www.linkedin.com/in/2602b1373/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/eufilip">GitHub</a>
 </div>
 
 <br />
 
-<div align="center"><img src="footer.png" width="100%" alt="Faixa decorativa" /></div>
+<div align="center"><img src="footer.gif" width="100%" alt="Faixa inferior animada" /></div>
