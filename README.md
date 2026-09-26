@@ -3,7 +3,7 @@
   <br /><br />
   <a href="https://github.com/eufilip"><img src="github-badge.png" height="27" alt="GitHub eufilip" /></a>
   <a href="https://www.linkedin.com/in/2602b1373/"><img src="linkedin-badge.png" height="27" alt="LinkedIn de Filipe Reis" /></a>
-  <img src="ifba-badge.png" height="27" alt="ADS no IFBA" />
+  <img src="ifba-badge.png" height="27" />
 </div>
 
 ## 👨‍💻 /whoami
