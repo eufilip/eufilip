@@ -43,7 +43,7 @@ Os cartões levam aos dados atuais do meu perfil e dos meus repositórios.
 ## 📫 Vamos conversar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/2602b1373/"><img src="linkedin-badge.png" height="32" alt="Acessar meu LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/filipe-reis-2602b1373/"><img src="linkedin-badge.png" height="32" alt="Acessar meu LinkedIn" /></a>
   <a href="https://github.com/eufilip"><img src="github-badge.png" height="32" alt="Acessar meu GitHub" /></a>
 </div>
 
