@@ -1,64 +1,52 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Filipe Reis — estudante de Análise e Desenvolvimento de Sistemas" width="100%" />
+  <img src="assets/banner.svg" width="100%" alt="Filipe Reis — ADS no IFBA" />
+  <br /><br />
+  <a href="https://github.com/eufilip"><img src="assets/github-badge.svg" height="27" alt="GitHub eufilip" /></a>
+  <a href="https://www.linkedin.com/in/2602b1373/"><img src="assets/linkedin-badge.svg" height="27" alt="LinkedIn de Filipe Reis" /></a>
+  <img src="assets/ifba-badge.svg" height="27" alt="ADS no IFBA" />
+</div>
 
-  <br />
+## 👨‍💻 /whoami
 
-  <strong>Estudante de ADS no IFBA · Salvador, BA</strong>
+Sou **Filipe Reis**, estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, em Salvador. Estou construindo minha base em programação com C e lógica, explorando desenvolvimento web e organizando meus estudos em projetos. Tenho experiência com organização de documentos, design e atendimento a clientes.
+
+```js
+const filipe = {
+  local: "Salvador, Bahia",
+  formacao: "ADS · IFBA",
+  praticaAtual: ["Lógica de programação", "C"],
+  estudando: ["HTML", "CSS", "Desenvolvimento web"],
+  interesses: ["Software", "Soluções digitais"],
+  objetivo: "Oportunidade de estágio em tecnologia"
+};
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="assets/stack.svg" width="700" alt="Em prática: C. Em estudo: HTML e CSS. Ferramentas: GitHub e GCC." />
+</div>
+
+## 📊 GitHub
+
+<div align="center">
+  <a href="https://github.com/eufilip?tab=repositories"><img src="assets/card-repos.svg" width="310" alt="Ver repositórios" /></a>
+  <a href="https://github.com/eufilip?tab=overview"><img src="assets/card-activity.svg" width="310" alt="Ver contribuições" /></a>
   <br />
-  <sub>Construindo uma base sólida em programação e desenvolvendo projetos para aprender na prática.</sub>
+  <a href="https://github.com/eufilip?tab=repositories"><img src="assets/card-languages.svg" width="310" alt="Ver linguagens dos repositórios" /></a>
 </div>
 
 <br />
 
-### Sobre mim
+Os cartões levam aos dados atuais do meu perfil e dos meus repositórios.
 
-Sou Filipe Reis, estudante de **Análise e Desenvolvimento de Sistemas no IFBA**. Tenho interesse em desenvolvimento de software, aplicações web e soluções que simplifiquem tarefas do dia a dia.
-
-Atualmente, estou fortalecendo minha lógica de programação com **C**, estudando fundamentos de desenvolvimento web e transformando o que aprendo em projetos. Também trago experiência com organização de documentos, atendimento e comunicação com clientes.
-
-```c
-const char *foco_atual[] = {
-    "logica de programacao",
-    "pratica em C",
-    "desenvolvimento web",
-    "projetos para o portfolio"
-};
-```
-
-### Tecnologias e estudos
-
-**Prática atual**
-
-![C](https://img.shields.io/badge/C-18263A?style=for-the-badge&logo=c&logoColor=64E6D2)
-![Lógica de programação](https://img.shields.io/badge/L%C3%B3gica_de_programa%C3%A7%C3%A3o-18263A?style=for-the-badge&logoColor=64E6D2)
-
-**Em estudo**
-
-![HTML5](https://img.shields.io/badge/HTML5-18263A?style=for-the-badge&logo=html5&logoColor=64E6D2)
-![CSS3](https://img.shields.io/badge/CSS3-18263A?style=for-the-badge&logo=css&logoColor=64E6D2)
-
-### O que estou desenvolvendo
-
-| Frente | O que estou praticando |
-| :-- | :-- |
-| **Exercícios em C** | Condicionais, laços, entrada de dados e resolução de problemas. |
-| **Projetos de portfólio** | Organização do código e documentação do processo de aprendizagem. |
-| **Desenvolvimento web** | Estrutura de páginas e fundamentos de apresentação visual. |
-
-> Os repositórios publicados podem ser fixados na seção **Pinned** do perfil para mostrar o código e o resultado de cada projeto.
-
-### Atividade no GitHub
+## 📫 Vamos conversar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eufilip&show_icons=true&hide_border=true&bg_color=0D1726&title_color=64E6D2&text_color=E5EDF5&icon_color=8BA5FF&locale=pt-br" alt="Estatísticas do GitHub de Filipe Reis" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufilip&layout=compact&hide_border=true&bg_color=0D1726&title_color=64E6D2&text_color=E5EDF5&locale=pt-br" alt="Linguagens dos repositórios públicos de Filipe Reis" height="165" />
+  <a href="https://www.linkedin.com/in/2602b1373/"><img src="assets/linkedin-badge.svg" height="32" alt="Acessar meu LinkedIn" /></a>
+  <a href="https://github.com/eufilip"><img src="assets/github-badge.svg" height="32" alt="Acessar meu GitHub" /></a>
 </div>
 
-### Contato
+<br />
 
-Tenho interesse em oportunidades de estágio em desenvolvimento de software. Para conversar sobre projetos ou trabalho, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/2602b1373/).
-
-<div align="center">
-  <br />
-  <sub>Filipe Reis · Salvador, Bahia</sub>
-</div>
+<div align="center"><img src="assets/footer.svg" width="100%" alt="Faixa decorativa" /></div>
