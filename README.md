@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e1020&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+Reis;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dddddd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+Reis;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=eufilip&show_icons=true&count_private=true&hide_border=true&title_color=fcfcfc&icon_color=6e1020&text_color=fcfcfc&bg_color=0d1117" alt="Filipe Reis github stats"/> 
-  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eufilip&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fcfcfc&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=eufilip&show_icons=true&count_private=true&hide_border=false&border_color=6e1020&title_color=dddddd&icon_color=6e1020&text_color=dddddd&bg_color=0d1117" alt="Filipe Reis github stats"/> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eufilip&layout=compact&hide_border=false&border_color=6e1020&title_color=dddddd&text_color=dddddd&bg_color=0d1117" />
 </div>
 
 <div align="center">  
