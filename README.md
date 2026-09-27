@@ -1,46 +1,39 @@
-<div align="center">
-  <img src="banner.gif" width="100%" alt="Filipe Reis — ADS no IFBA; faixa inferior animada" />
-  <br /><br />
-  <a href="https://github.com/eufilip">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/2602b1373/">LinkedIn</a> &nbsp;·&nbsp;
-  ADS no IFBA
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e1020&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+Reis;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=eufilip&show_icons=true&count_private=true&hide_border=true&title_color=fcfcfc&icon_color=6e1020&text_color=fcfcfc&bg_color=0d1117" alt="Filipe Reis github stats"/> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eufilip&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fcfcfc&bg_color=0d1117" />
 </div>
 
-## 👨‍💻 /whoami
+<div align="center">  
+<a href="https://www.instagram.com/filipkcc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
 
-Sou **Filipe Reis**, estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, em Salvador. Estou construindo minha base em programação com C e lógica, explorando desenvolvimento web e organizando meus estudos em projetos. Tenho experiência com organização de documentos, design e atendimento a clientes.
+<hr>
+ 
+### Main skills:
+![C](https://img.shields.io/badge/-C_language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 
-```js
-const filipe = {
-  local: "Salvador, Bahia",
-  formacao: "ADS · IFBA",
-  praticaAtual: ["Lógica de programação", "C"],
-  estudando: ["HTML", "CSS", "Desenvolvimento web"],
-  interesses: ["Software", "Soluções digitais"],
-  objetivo: "Oportunidade de estágio em tecnologia"
-};
-```
+ 
+### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-## 🛠️ Tech Stack
+ 
+### Studying in this moment:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=326CE5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=white&labelColor=0D1117)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)&nbsp;
 
-<div align="center">
-  <img src="stack.png" width="560" alt="Logos de C, HTML5, CSS3 e GitHub. C em prática; HTML e CSS em estudo." />
-</div>
 
-## 📊 GitHub
+<!-- <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div> -->
 
-<div align="center">
-  <a href="https://github.com/eufilip?tab=overview">Contribuições</a> &nbsp;·&nbsp;
-  <a href="https://github.com/eufilip?tab=repositories">Repositórios</a>
-</div>
 
-## 📫 Vamos conversar
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e1020&height=120&section=footer"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/2602b1373/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/eufilip">GitHub</a>
-</div>
-
-<br />
-
-<div align="center"><img src="footer.gif" width="100%" alt="Faixa inferior animada" /></div>
